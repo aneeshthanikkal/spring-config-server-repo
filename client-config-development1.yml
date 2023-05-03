@@ -4,4 +4,5 @@
 config:
   name: config server
   environment: Development1
+  contextpath: development
 message: From Development1
