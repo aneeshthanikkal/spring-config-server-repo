@@ -1,0 +1,7 @@
+
+ 
+
+config:
+  name: config server
+  environment: Development1
+message: From Development1
